@@ -139,4 +139,5 @@ cython_debug/
 
 
 *.csv
-*.fth
+*.ftr
+features/
